@@ -63,7 +63,7 @@ export function Header() {
 
         <div className="flex items-center gap-1">
           <a
-            href="https://github.com/Zoroaaa/it-toolbox"
+            href="https://github.com/zcs19960929/it-toolbox"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center w-9 h-9 rounded-lg text-text-secondary hover:text-text-primary hover:bg-bg-raised transition-colors"
